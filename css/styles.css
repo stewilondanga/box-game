@@ -31,11 +31,11 @@ div {
   background-color: white;
 }
 
-/*.dead {
-    background-color: #666;
+.dead {
+  background-color: #666;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
