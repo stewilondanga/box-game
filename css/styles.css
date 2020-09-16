@@ -27,11 +27,11 @@ div {
   color: white;
 }
 
-/*.alive {
-    background-color: white;
+.alive {
+  background-color: white;
 }
 
-.dead {
+/*.dead {
     background-color: #666;
 }
 
