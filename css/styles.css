@@ -21,6 +21,28 @@ body {
   height: 1.5em;
 }
 
+body {
+    background-color: #222;
+}
+
+td {
+    width: 10px;
+    height: 10px;
+    background-color: #444;
+}
+
+div {
+    color: white;
+}
+
+.alive {
+    background-color: white;
+}
+
+.dead {
+    background-color: #666;
+}
+
 .containers {
   width: 520px;
   margin: 20px auto;
